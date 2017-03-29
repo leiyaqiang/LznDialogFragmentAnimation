@@ -1,4 +1,4 @@
-package com.android4.lenovo.lzndialogfragmentanimation;
+package com.android4.lenovo.lzngi;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
